@@ -5,3 +5,11 @@ __pycache__/
 token.json
 credentials.json
 *.log
+
+EmailOrganizer.py
+run_bot.pyw
+setup_autostart.py
+
+EmailOrganizer.py
+run_bot.pyw
+setup_autostart.py
